@@ -1,0 +1,19 @@
+{
+  "name": "gnosis-bacth",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "dotenv": "^16.4.7",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@safe-global/sdk-starter-kit": "^1.0.4",
+    "ethers": "^6.13.4"
+  }
+}
